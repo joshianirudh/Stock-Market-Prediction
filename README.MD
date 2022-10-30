@@ -11,13 +11,13 @@ NSEPY library
 TA-LIB Library
 
 Run these commands to set-up  TIP: Works on colab easily
-'''python
+```python
 !wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz 
 !tar -xzvf ta-lib-0.4.0-src.tar.gz
 %cd ta-lib
 !./configure --prefix=/usr
-!make                                                                                                                                                                                                          !make install
+!make                                                                                                                                                                     !make install
 !pip install Ta-Lib
 !pip install nsepy
-'''
+```
 LEARN how to use NSEPY: [here](https://nsepy.xyz/)
