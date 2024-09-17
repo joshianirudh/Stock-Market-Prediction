@@ -2,8 +2,7 @@
 
 Predicting stock prices using Time series forecasting techniques like:  [SMA](https://www.investopedia.com/terms/s/sma.asp) (Simple Moving Average), [EMA](https://www.investopedia.com/terms/e/ema.asp) (Exponential Moving Average), [MOM](https://www.investopedia.com/terms/m/momentum.asp) (Momentum), [RSI](https://www.investopedia.com/terms/r/rsi.asp) (Relative Strength Index), [MACD](https://www.investopedia.com/terms/m/macd.asp) (Moving Average Convergence Divergence).
 
-And ML Algorithms like: Linear Regression, Decision Trees, RandomForest, XGBoost, etc.
-
+And ML Algorithms such as: Linear Regression, Decision Trees, RandomForest, XGBoost.
 
 ## Requirments
 
